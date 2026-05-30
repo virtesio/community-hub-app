@@ -1,0 +1,3 @@
+Install these packages if they are not already installed:
+
+npm install @supabase/supabase-js @supabase/ssr
